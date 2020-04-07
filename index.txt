@@ -1,5 +1,3 @@
-linha de exemplo
+edu lider
 
-uma linha qualquer no meio do arquivo(inserido no master)
 
-corrigido o bug deste arquivo
